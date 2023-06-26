@@ -2,6 +2,12 @@
 
 # Overview 
 
+## Important Artifacts 
+
+- [Project Definition](https://github.com/aks5bx/waimea-wave-data/blob/master/analysis/project_overview.pdf) 
+- [Part 1: Open Questions](https://github.com/aks5bx/waimea-wave-data/blob/master/analysis/wsl_analysis.pdf)
+- [Part 2: Proof of Concept](https://github.com/aks5bx/waimea-wave-data/blob/master/prototyping/xgboost.ipynb)
+
 ## General Information
 
 Author: Adi Srikanth 
