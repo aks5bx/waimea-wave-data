@@ -5,6 +5,7 @@
 ## General Information
 
 Author: Adi Srikanth 
+
 Date: June 2023 
 
 This repository contains code for the World Surf League project intended for Strong Analytics. The project description and the data are not included in this repository in order to protect the confidentiality of the project as stipulated by Strong Analytics. 
@@ -35,6 +36,7 @@ The repository can be cloned over ssh as supported by GitHub. Additionally, the 
 │
 └───analysis
 │   | wsl_analysis.pdf
+│   | project_overview.pdf
 │
 └───.gitignore
 └───README.md
