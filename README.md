@@ -25,6 +25,10 @@ The repository can be cloned over ssh as supported by GitHub. Additionally, the 
 ```
 [parent or home directory]
 │
+└───analysis
+│   | wsl_analysis.pdf
+│   | project_overview.pdf
+│
 └───data
 │   | buoy-data.csv
 │   | wide.csv
@@ -33,13 +37,11 @@ The repository can be cloned over ssh as supported by GitHub. Additionally, the 
 │   | xgboost.ipynb
 │   | mean_shap.png
 │   | shap_summary.png
-│
-└───analysis
-│   | wsl_analysis.pdf
-│   | project_overview.pdf
-│
+
 └───.gitignore
+│
 └───README.md
+│
 └───requirements.txt
 ```
 
