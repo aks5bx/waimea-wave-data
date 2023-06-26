@@ -107,7 +107,7 @@ This is a reasonable starting point, especially given the fact that we did not c
 
 ## Analysis 
 
-In order to understand the underlying relationships between current environmental conditions and current wave height, we leverage SHAP values to dive under the hood and determine which features impact our target variable and how they do so. SHAP value plots can be found in the notebook `xgboost.ipynb`. 
+In order to understand the underlying relationships between current environmental conditions and current wave height, we leverage SHAP values to dive under the hood and determine which features impact our target variable and how they do so. SHAP value plots can be found in the notebook `xgboost.ipynb` or in the `prototyping/` directory as png files. 
 
 Understanding the relationships between current environmental conditions and current wave height can help us prioritize features when we ultimately predict future wave height. 
 
